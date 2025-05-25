@@ -2,9 +2,10 @@
 
 Este repositório foi criado com o objetivo de praticar e demonstrar minhas habilidades com o ecossistema moderno do Vue.js, utilizando:
 
-Vue 3 com Composition API
+>Vue 3 com Composition API
 
-Vite para build e desenvolvimento rápido
+>Vite para build e desenvolvimento rápido
 
-TypeScript para tipagem estática e maior robustez no código
+>TypeScript para tipagem estática e maior robustez no código
 
+>Vue Router para gerenciamento de rotas
